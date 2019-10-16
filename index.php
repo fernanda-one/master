@@ -4,4 +4,5 @@
     echo 'Kelas : XRPL 2';
     echo '<br>';
     echo 'absen : 8';
+    echo 'ashia';
 ?>
